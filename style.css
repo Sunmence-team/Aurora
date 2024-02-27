@@ -142,6 +142,12 @@ body{
       flex-basis: 40%;
       margin-top: 15% !important;
     }
+    .herohead{
+      font-size: 32px;
+    }
+    .ovx{
+      overflow-x: scroll;
+    }
     /* .serve{
       background-image: linear-gradient(to right, rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url('./images/DSC_1835.jpg');
       background-position: center;
