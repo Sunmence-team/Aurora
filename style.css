@@ -25,6 +25,12 @@ body{
 #hero{
     padding-top: 1%;
 }
+#new{
+  padding: 10% 0;
+}
+/* #new2{
+  padding-bottom: 10%;
+} */
 .input{
     height: 45px;
     border: none;
